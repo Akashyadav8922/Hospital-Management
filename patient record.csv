@@ -1,0 +1,39 @@
+id,patient_name,mobile_no,gender,disease,total_amount,address,created_at
+1,Alok Kumar Singh,8303550162,Male,Fever,500,Banaras,04-12-2024 23:03
+2,akash yadav,9651693328,Male,TB,25242,"Jagpur,Sonbarsa Bazar,Gorakhpur",04-12-2024 23:05
+3,John Doe,9123456723,Male,Flu,500,Kanpur,04-12-2024 23:50
+4,Jane Smith,9123456781,Female,Cough,300,Lucknow,04-12-2024 23:50
+5,Bob Johnson,9123456782,Male,Fever,450,Delhi,04-12-2024 23:50
+6,Alice Brown,9123456783,Female,Malaria,700,Agra,04-12-2024 23:50
+7,Charlie Davis,9123456784,Male,Cancer,1500,Kanpur,04-12-2024 23:50
+8,Emma Wilson,9123456785,Female,Hypertension,1200,Lucknow,04-12-2024 23:50
+9,Liam Moore,9123456786,Male,Cancer,2000,Delhi,04-12-2024 23:50
+10,Sophia Taylor,9123456787,Female,Asthma,800,Agra,04-12-2024 23:50
+11,Ethan Clark,9123456788,Male,TB,400,Kanpur,04-12-2024 23:50
+12,Olivia Anderson,9123456789,Female,Fever,350,Lucknow,04-12-2024 23:50
+13,Michael Harris,9123456790,Male,Fever,500,Delhi,04-12-2024 23:50
+14,Ava Martinez,9123456791,Female,Asthma,1400,Agra,04-12-2024 23:50
+15,Isabella Robinson,9123456792,Female,Hypertension,1250,Kanpur,04-12-2024 23:50
+16,Mason Hall,9123456793,Male,Cancer,1800,Lucknow,04-12-2024 23:50
+17,Mia Lee,9123456794,Female,Fever,750,Delhi,04-12-2024 23:50
+18,Lucas White,9123456795,Male,Flu,550,Agra,04-12-2024 23:50
+19,Amelia King,9123456796,Female,Malaria,650,Kanpur,04-12-2024 23:50
+20,James Wright,9123456797,Male,Malaria,1550,Lucknow,04-12-2024 23:50
+21,Harper Perez,9123456798,Female,Asthma,250,Delhi,04-12-2024 23:50
+22,Benjamin Young,9123456799,Male,Fever,600,Agra,04-12-2024 23:50
+23,Emily Brown,9123456710,Female,Flu,800,Kanpur,04-12-2024 23:50
+24,Noah Evans,9123456720,Male,TB,500,Lucknow,04-12-2024 23:50
+25,Oliver Hall,9123456730,Male,Cough,1200,Delhi,04-12-2024 23:50
+26,Ava Turner,9123456740,Female,Cancer,1900,Agra,04-12-2024 23:50
+27,Luna Clark,9123456750,Female,Malaria,850,Kanpur,04-12-2024 23:50
+28,Logan Hill,9123456760,Male,Diabetes,1600,Lucknow,04-12-2024 23:50
+29,Charlotte Green,9123456770,Female,Hypertension,1300,Delhi,04-12-2024 23:50
+30,Elijah Allen,9123456780,Male,Fever,450,Agra,04-12-2024 23:50
+31,Sophia Walker,9123456790,Female,Asthma,600,Kanpur,04-12-2024 23:50
+32,Liam Young,9123456711,Male,Cancer,1800,Lucknow,04-12-2024 23:50
+33,Anuj,9.12E+09,Male,Cancer,2000,Agra,
+34,Ram,,Male,Cancer,500,Agra,
+35,Shyam,,Male,Cancer,100,Lucknow,
+35,Ranju,,Female,Cancer,50,Lucknow,
+36,aman,,Male,Asthma,10,Kanpur,
+37,Ayush,,Male,Flu,100,Lucknow,
